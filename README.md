@@ -1,6 +1,10 @@
 **RuleRAG: Rule-guided Retrieval-Augmented Generation with Language Models for Question Answering**
 ====
 
+****
+![image](name.png)
+
+
 This is the official implementation repository of the paper, RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering.
  
 ****
