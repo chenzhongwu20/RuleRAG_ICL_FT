@@ -2,7 +2,6 @@
 ====
 
 ****
-![image](name.png)
 
 
 This is the official implementation repository of the paper, RuleRAG: Rule-guided retrieval-augmented generation with language models for question answering.
@@ -28,6 +27,3 @@ Train the generators of RuleRAG: main_train.py
 
 Inference of RuleRAG: RuleRAG_inference.py
 
-****
-
-My homepage : https://www.researchgate.net/profile/Zhongwu-Chen-2
