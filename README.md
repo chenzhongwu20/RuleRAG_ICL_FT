@@ -1,10 +1,10 @@
-**RuleRAG: Rule Meets Retrieval-Augmented Generation for Question Answering**
+**RuleRAG: Rule Meets Retrieval-Augmented Generation for Question Answering**
 ====
 
 ****
 
 
-This is the official implementation repository of the paper, RuleRAG: Rule Meets Retrieval-Augmented Generation for Question Answering.
+This is the official implementation repository of the paper, RuleRAG: Rule Meets Retrieval-Augmented Generation for Question Answering.
  
 ****
 ![image](framework.png)
